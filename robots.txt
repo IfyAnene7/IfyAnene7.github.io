@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://IfyAnene7.github.io//sitemap.xml
+Sitemap: https://uzoamakaanenescholarship.com//sitemap.xml
